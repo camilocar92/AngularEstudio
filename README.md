@@ -1,2 +1,0 @@
-# AngularEstudio
-Estudio Angular
